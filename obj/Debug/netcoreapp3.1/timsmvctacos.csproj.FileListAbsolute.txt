@@ -1,0 +1,13 @@
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.exe
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.deps.json
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.runtimeconfig.json
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.runtimeconfig.dev.json
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.dll
+C:\source\codeworks\latefall20\timsmvctacos\bin\Debug\netcoreapp3.1\timsmvctacos.pdb
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.csprojAssemblyReference.cache
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.AssemblyInfoInputs.cache
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.AssemblyInfo.cs
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.csproj.CoreCompileInputs.cache
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.dll
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.pdb
+C:\source\codeworks\latefall20\timsmvctacos\obj\Debug\netcoreapp3.1\timsmvctacos.genruntimeconfig.cache
